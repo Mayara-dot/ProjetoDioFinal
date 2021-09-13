@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GitHub Repositories</string>
+    <string name="label_action_search">Pesquisar</string>
+</resources>

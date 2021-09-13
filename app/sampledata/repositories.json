@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "id": 81223601,
+      "name": "android-DocumentCentricApps",
+      "owner": {
+        "login": "EzequielMessore",
+        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
+      },
+      "stargazers_count": 0,
+      "language": "Java",
+      "html_url": "https://github.com/EzequielMessore/android-DocumentCentricApps",
+      "description": "description"
+    },
+    {
+      "id": 98749687,
+      "name": "-my-first-blog-",
+      "owner": {
+        "login": "baiana",
+        "avatar_url": "https://avatars.githubusercontent.com/u/18560467?v=4"
+      },
+      "html_url": "https://github.com/baiana/-my-first-blog-",
+      "description": "empty description",
+      "stargazers_count": 0,
+      "language": "Python"
+    },
+    {
+      "id": 398936523,
+      "name": "BusinessCard",
+      "owner": {
+        "login": "Mayara-dot",
+        "avatar_url": "https://avatars.githubusercontent.com/u/84109696?v=4"
+      },
+      "html_url": "https://github.com/Mayara-dot/BusinessCard",
+      "description": "Projeto DIO-Android",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 228936237,
+      "name": ".github",
+      "owner": {
+        "login": "android",
+        "avatar_url": "https://avatars.githubusercontent.com/u/32689599?v=4"
+      },
+      "html_url": "https://github.com/android/.github",
+      "description": "Repo hosting default community health files.",
+      "stargazers_count": 5,
+      "language": "Empty"
+    },
+    {
+      "id": 296579054,
+      "name": "ac_tutorial_debugging",
+      "owner": {
+        "login": "JetBrains",
+        "avatar_url": "https://avatars.githubusercontent.com/u/878437?v=4"
+      },
+      "html_url": "https://github.com/JetBrains/ac_tutorial_debugging",
+      "description": "empty description",
+      "stargazers_count": 0,
+      "language": "Swift"
+    },
+    {
+      "id": 53227290,
+      "name": "airhornbot",
+      "owner": {
+        "login": "discord",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1965106?v=4"
+      },
+      "html_url": "https://github.com/discord/airhornbot",
+      "description": "The only bot for Discord you'll ever need.",
+      "stargazers_count": 646,
+      "language": "JavaScript"
+    },
+    {
+      "id": 24186761,
+      "name": "anko",
+      "owner": {
+        "login": "Kotlin",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1446536?v=4"
+      },
+      "html_url": "https://github.com/Kotlin/anko",
+      "description": "Pleasant Android application development",
+      "stargazers_count": 15956,
+      "language": "Kotlin"
+    },
+    {
+      "id": 374805536,
+      "name": "100DaysOfCode-discord-bot",
+      "owner": {
+        "login": "freeCodeCamp",
+        "avatar_url": "https://avatars.githubusercontent.com/u/9892522?v=4"
+      },
+      "html_url": "https://github.com/freeCodeCamp/100DaysOfCode-discord-bot",
+      "description": "A Discord bot created for the 100 Days of Code challenge.",
+      "stargazers_count": 11,
+      "language": "TypeScript"
+    },
+    {
+      "id": 265040807,
+      "name": "Chuck-Norris-Facts",
+      "owner": {
+        "login": "EzequielMessore",
+        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
+      },
+      "html_url": "https://github.com/EzequielMessore/Chuck-Norris-Facts",
+      "description": "An Android client for the Chuck Norris facts API",
+      "stargazers_count": 5,
+      "language": "Kotlin"
+    },
+    {
+      "id": 369822554,
+      "name": "coin-converter",
+      "owner": {
+        "login": "EzequielMessore",
+        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
+      },
+      "html_url": "https://github.com/EzequielMessore/coin-converter",
+      "description": "empty description",
+      "stargazers_count": 1,
+      "language": "Kotlin"
+    }
+  ]
+}
